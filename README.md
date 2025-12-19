@@ -17,8 +17,6 @@ https://youtu.be/b6jqbITn7T8
 * Battery capacity monitoring via ADC
 * Low-power 3.3V regulated supply
 
----
-
 ## System Description
 
 * **Water Sensing Probes:** Detect presence of water and send signal to MCU
@@ -28,8 +26,6 @@ https://youtu.be/b6jqbITn7T8
 * **Voltage Regulator:** Provides stable 3.3V to MCU
 * **Battery Monitoring:** Battery voltage measured using MCU ADC
 * **Programming Header:** Used for firmware flashing and debugging
-
----
 
 ## LED Indications (Firmware Configurable)
 
