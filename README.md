@@ -1,8 +1,8 @@
 # Smart Water Sensing Band
 
-## Overview
-
 The **Smart Water Sensing Band** is a wearable device designed to **detect water exposure** and provide **visual and wireless indications**. It uses a low-power **microcontroller with Bluetooth**, water sensing probes, and an RGB LED for status indication. The device is powered by a **3.7V rechargeable battery** with magnetic charging support.
+
+![Overview](overview.jpg)
 
 ## Water Sensing Circuit Testing Video
 https://youtu.be/b6jqbITn7T8
